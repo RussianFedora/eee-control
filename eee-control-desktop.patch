@@ -1,0 +1,14 @@
+diff -up eee-control-0.9.4/data/eee-control-tray.desktop.d eee-control-0.9.4/data/eee-control-tray.desktop
+--- eee-control-0.9.4/data/eee-control-tray.desktop.d	2009-08-09 04:42:53.000000000 +0200
++++ eee-control-0.9.4/data/eee-control-tray.desktop	2010-01-06 13:31:09.000000000 +0100
+@@ -1,9 +1,8 @@
+ [Desktop Entry]
+-Encoding=UTF-8
+ Name=Eee Control
+ Comment=Eee PC hardware control
+ Exec=/usr/bin/eee-control-tray
+ Terminal=false
+ Type=Application
+ Icon=/usr/share/eee-control/eee-icon.png
+-Categories=Application;System;
++Categories=System;
